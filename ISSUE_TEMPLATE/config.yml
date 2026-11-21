@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/mapcova/.github/blob/main/SECURITY.md
+    about: Do not open a public issue. Use private vulnerability reporting or write to hello@mapcova.com.
+  - name: Commercial support and licence
+    url: https://my.mapcova.com/offers
+    about: Paid support with MapCova Plus, and the commercial licence.
