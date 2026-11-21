@@ -37,7 +37,7 @@ framework and no Composer packages in production.
 ### Licensing and contributing (uncomment on launch day)
 
 The core is dual-licensed: GNU AGPL-3.0-or-later, and a commercial licence for
-uses the AGPL does not fit. Contributions are welcome under a CLA: see the
+uses that the AGPL does not fit. Contributions are welcome under a CLA: see the
 CONTRIBUTING.md of the [mapcova/mapcova](https://github.com/mapcova/mapcova)
 repository.
 -->
